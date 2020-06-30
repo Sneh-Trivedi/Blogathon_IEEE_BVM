@@ -1,0 +1,66 @@
+.event-counter {
+	background-image: linear-gradient(to bottom, #dd2476, #ff512f);
+	padding: 55px 0 55px 0;
+}
+
+.event-counter .event-name h3 {
+	color: #fff;
+	font-size: 60px;
+	font-weight: 900;
+	margin-bottom: 11px;
+}
+
+.event-counter .event-name h2 {
+	color: #fff;
+	font-size: 60px;
+	font-weight: 900;
+	margin-bottom: 11px;
+}
+
+.event-counter .event-name h4 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.event-counter .event-name p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.event-counter .event-name span {
+	font-size: 16px;
+	font-weight: 400;
+	padding: 9px 11px 9px 15px;
+	background: ##5c00fe;
+	display: inline-block;
+	margin-left: 12px;
+}
+
+.event-counter .countdown-timer {
+	margin-top: -10px;
+}
+
+.event-counter .countdown-timer .cd-item {
+	display: inline-block;
+	margin-right: 60px;
+}
+
+.event-counter .countdown-timer .cd-item:last-child {
+	margin-right: 0;
+}
+
+.event-counter .countdown-timer .cd-item span {
+	display: block;
+	color: #fff;
+	font-size: 60px;
+	font-weight: 900;
+	margin-bottom: 6px;
+}
+
+.event-counter .countdown-timer .cd-item p {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 400;
+}
